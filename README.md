@@ -1,17 +1,27 @@
 ## PyEBG.py1.0.0
 一个简单调用就能做出漂亮简洁的python界面。
 
+
+
 # 用法
 
-import PyEBG #导入本地；
-import ttkbootstrap；
-import ttkbootstrap.constants；
-import tkinter as tk'、；
-提示#：后续会完善
+·导入本地
 
-window = pyEBG() #创建窗口
+import pyEBG
 
 
+·创建窗口
+
+ root = pyEBG.pri()
 
 
-当前开发中没有一点用
+·弹出提示框
+ root.msgbox(类型，标题，文本)
+ 参数类型(输入1或2或3){
+ 1:信息框
+ 2:警告框
+ 3:错误框
+
+ 
+·退出
+ root.EXIT()
