@@ -31,5 +31,4 @@ import pyEBG
  root.EXIT()
 
 
-
 © 2023 EasyWorld
