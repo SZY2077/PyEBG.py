@@ -29,3 +29,7 @@ import pyEBG
 ·退出
 
  root.EXIT()
+
+
+
+© 2023 EasyWorld
