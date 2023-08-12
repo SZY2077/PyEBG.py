@@ -15,7 +15,9 @@ import pyEBG
 
 ·创建窗口
 
- root = pyEBG.pri()
+ root = pyEBG.pri(主题,窗口大小x,窗口大小y)
+
+ （主题为ttkbootstrap的主题）
 
 
 ·弹出提示框
