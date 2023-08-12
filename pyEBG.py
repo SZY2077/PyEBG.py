@@ -5,8 +5,9 @@ from tkinter import Messagebox as msgbox
 import sys
 
 class pri():
-  def __init__(self):
-    self = ttkbootstrap.Window()
+  def __init__(self,theme,x,y):
+    self = ttkbootstrap.Window(themename=theme)
+    self.geometry(str(str(x)+"x"+str(y))
 
   def msgbox(self,choice,title,text):
     if choice == 1:
