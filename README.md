@@ -23,6 +23,7 @@ import pyEBG
  3:错误框
  }
 
- 
+
 ·退出
+
  root.EXIT()
