@@ -2,7 +2,7 @@
 一个简单调用就能做出漂亮简洁的python界面。
 
 注释：当前开发中，没有用，等到1.0.1 Beta才能用
-
+© 2023 EasyWorld
 
 
 # 用法
@@ -31,4 +31,5 @@ import pyEBG
  root.EXIT()
 
 
-© 2023 EasyWorld
+
+ 
