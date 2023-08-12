@@ -3,10 +3,10 @@
 
 # 用法
 
-import PyEBG #导入本地
-import ttkbootstrap
-import ttkbootstrap.constants
-import tkinter as tk
+import PyEBG #导入本地；
+import ttkbootstrap；
+import ttkbootstrap.constants；
+import tkinter as tk'、；
 提示#：后续会完善
 
 window = pyEBG() #创建窗口
