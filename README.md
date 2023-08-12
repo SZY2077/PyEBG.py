@@ -10,7 +10,9 @@
 
 ### 导入本地
 
-import pyEBG
+'''(javascript)
+ import pyEBG
+'''
 
 ### 创建窗口
 
